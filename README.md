@@ -1,10 +1,9 @@
-#To install open terminal go to the folder then
-## `npm install`
+#Cài đặt app
+## npm i
+###Truyền value trong file .env để connect DB và sử dụng cho auth
 
-###open .env file and put your value for the env variable.
 
-
-#To run type on terminal and press enter
+#Run dev
 ## `npm run start:dev`
 
 
